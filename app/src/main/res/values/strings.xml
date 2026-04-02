@@ -1,5 +1,5 @@
 <resources>
-    <!-- Tên của ứng dụng (BẮT BUỘC PHẢI CÓ) -->
+
     <string name="app_name">2.1P_ConverterApp</string>
 
     <string-array name="currency_units">
