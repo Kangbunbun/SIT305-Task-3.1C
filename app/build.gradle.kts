@@ -4,15 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a21p_converterapp"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    namespace = "com.example.quizapp"
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.a21p_converterapp"
+        applicationId = "com.example.quizapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

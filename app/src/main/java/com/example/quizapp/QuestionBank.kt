@@ -1,6 +1,6 @@
-package com.example.a21p_converterapp
-object QuestionBank {
+package com.example.quizapp
 
+object QuestionBank {
     fun getQuestions(): List<Question> {
         return listOf(
             Question(1, "What is the capital of France?", listOf("London", "Berlin", "Paris", "Madrid"), 2, "Paris is the capital of France."),

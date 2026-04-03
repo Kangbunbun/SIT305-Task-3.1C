@@ -1,27 +1,3 @@
 <resources>
-
-    <string name="app_name">2.1P_ConverterApp</string>
-
-    <string-array name="currency_units">
-        <item>USD</item>
-        <item>AUD</item>
-        <item>EUR</item>
-        <item>JPY</item>
-        <item>GBP</item>
-    </string-array>
-
-    <string-array name="fuel_units">
-        <item>mpg</item>
-        <item>km/L</item>
-        <item>US gallon</item>
-        <item>L</item>
-        <item>nm</item>
-        <item>km</item>
-    </string-array>
-
-    <string-array name="temp_units">
-        <item>°C</item>
-        <item>°F</item>
-        <item>K</item>
-    </string-array>
+    <string name="app_name">SIT305 Quiz App</string>
 </resources>
